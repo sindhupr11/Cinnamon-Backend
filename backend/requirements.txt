@@ -5,3 +5,4 @@ pytube
 librosa
 numpy
 noisereduce
+yt-dlp
