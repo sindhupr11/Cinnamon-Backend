@@ -1,0 +1,7 @@
+fastapi
+python-multipart
+uvicorn
+pytube
+librosa
+numpy
+noisereduce
